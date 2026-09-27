@@ -150,8 +150,8 @@ The Sree Aadya Dry Cleaning Billing Web Application provides an efficient, secur
 
 ## Author
 
-Developed by: **Krishna Vamshi**
+Developed by: **Ghouse**
 
 B.Tech Computer Science & Engineering
 
-Cybersecurity & Software Development Enthusiast
+
